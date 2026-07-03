@@ -48,12 +48,3 @@ output/results.csv
 - Wide Transformations
 - Shuffle Operations
 
-## Repository Structure
-
-```
-spark-assignment/
-│── data/
-│── notebook/
-│── output/
-│── README.md
-```
