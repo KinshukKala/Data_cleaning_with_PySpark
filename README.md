@@ -36,9 +36,7 @@ A sample employee dataset containing employee information such as age, departmen
 
 The final department-wise summary is stored in:
 
-```
-output/department_summary.csv
-```
+output/results.csv
 
 ## Key Concepts Learned
 
