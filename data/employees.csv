@@ -1,0 +1,12 @@
+EmployeeID,Name,Age,Department,Salary,Region
+101,Alice,25,HR,45000,North
+102,Bob,30,IT,60000,South
+103,Charlie,35,Finance,70000,East
+104,David,28,IT,55000,West
+105,Eva,32,HR,50000,North
+106,Frank,,Finance,65000,South
+107,Grace,29,IT,,West
+108,Helen,25,HR,45000,North
+108,Helen,25,HR,45000,North
+109,Ian,40,Finance,80000,East
+110,Jack,27,IT,52000,South
