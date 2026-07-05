@@ -29,7 +29,7 @@ A sample employee dataset containing employee information such as age, departmen
 - Renamed columns
 - Converted data types
 - Performed aggregations
-- Used `groupBy()` for departmental analysis
+- Used groupBy() for departmental analysis
 - Saved the final aggregated results
 
 ## Output
