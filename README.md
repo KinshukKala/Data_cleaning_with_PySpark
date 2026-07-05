@@ -48,3 +48,9 @@ output/results.csv
 - Wide Transformations
 - Shuffle Operations
 
+## Repository Structure
+data: Contains input csv file
+notebook: Contains jupyter notebook
+output: Contains result file
+Report.docx : Contains assignment questions and screenshots of python code and results 
+
